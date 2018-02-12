@@ -5,10 +5,10 @@
 
 \RequirePackage{titlesec}
 \RequirePackage[
-    top = .5in,
-    bottom = .5in,
-    left = .5in,
-    right = .5in
+    top = .4in,
+    bottom = .4in,
+    left = .6in,
+    right = .6in
 ]{geometry}
 \RequirePackage{changepage}
 \RequirePackage[pdfborder={0 0 0}]{hyperref}
