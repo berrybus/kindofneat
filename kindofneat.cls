@@ -49,7 +49,7 @@
 }
 
 \newcommand{\loc}[1]{
-{\Large\raggedright \textit{#1}}
+{\large\raggedright #1}
 \vspace{0.4em}
 }
 
