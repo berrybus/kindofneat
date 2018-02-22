@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.2)  14 FEB 2018 15:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.2)  22 FEB 2018 05:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -208,48 +208,6 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip58
 \JustifyingParindent=\skip59
 )
-(/usr/share/texlive/texmf-dist/tex/latex/sourcesanspro/sourcesanspro.sty
-Package: sourcesanspro 2015/01/11 v2.5 Adobe's Source Sans Pro typeface
-
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks17
-\XKV@tempa@toks=\toks18
-)
-\XKV@depth=\count102
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.def
-File: ot1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding OT1 on input line 48.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1enc.def
-File: ly1enc.def 2009/07/22 v0.7 TeX 'n ANSI encoding (DPC/KB)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-)
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 105.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
-File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-))
-(/usr/share/texlive/texmf-dist/tex/latex/mweights/mweights.sty
-Package: mweights 2013/07/21 (Bob Tennent) Support package for multiple-weight 
-font packages. 
-LaTeX Info: Redefining \bfseries on input line 22.
-LaTeX Info: Redefining \mdseries on input line 29.
-LaTeX Info: Redefining \rmfamily on input line 36.
-LaTeX Info: Redefining \sffamily on input line 53.
-LaTeX Info: Redefining \ttfamily on input line 70.
-))
 (/usr/share/texlive/texmf-dist/tex/latex/inconsolata/inconsolata.sty
 Package: inconsolata 2016/02/22 v1.10
 
@@ -336,7 +294,7 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-\zifour@ocount=\count103
+\zifour@ocount=\count102
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
@@ -347,9 +305,9 @@ LaTeX Info: Redefining \_ on input line 43.
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip60
 \enit@outerparindent=\dimen120
-\enit@toks=\toks19
+\enit@toks=\toks17
 \enit@inbox=\box27
-\enitdp@description=\count104
+\enitdp@description=\count103
 ) (./resume.aux)
 \openout1 = `resume.aux'.
 
@@ -367,13 +325,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 22.
-LaTeX Font Info:    Try loading font information for LY1+ptm on input line 22.
-
-(/usr/share/texlive/texmf-dist/tex/latex/ly1/ly1ptm.fd
-File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
-)
-LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 22.
 
@@ -381,15 +332,6 @@ LaTeX Font Info:    Try loading font information for TS1+cmr on input line 22.
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Try loading font information for T1+SourceSansPro-LF on inp
-ut line 22.
-
-(/usr/share/texlive/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-LF.fd
-File: T1SourceSansPro-LF.fd 2015/01/11 (autoinst) Font definitions for T1/Sourc
-eSansPro-LF.
-)
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -399,14 +341,14 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(43.36243pt, 527.57014pt, 43.36243pt)
+* h-part:(L,W,R)=(50.58878pt, 513.11745pt, 50.58878pt)
 * v-part:(T,H,B)=(28.90755pt, 737.15489pt, 28.90755pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=527.57014pt
+* \textwidth=513.11745pt
 * \textheight=737.15489pt
-* \oddsidemargin=-28.90756pt
-* \evensidemargin=-28.90756pt
+* \oddsidemargin=-21.68121pt
+* \evensidemargin=-21.68121pt
 * \topmargin=-80.36244pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -433,7 +375,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count105
+\c@section@level=\count104
 )
 LaTeX Info: Redefining \ref on input line 22.
 LaTeX Info: Redefining \pageref on input line 22.
@@ -450,45 +392,19 @@ LaTeX Info: Redefining \selectfont on input line 22.
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 24.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 24.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 29.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 29.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 30.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/it' will be
-(Font)              scaled to size 12.0pt on input line 30.
-LaTeX Font Info:    Try loading font information for T1+zi4 on input line 41.
+LaTeX Font Info:    Try loading font information for OT1+zi4 on input line 41.
 
-(/usr/share/texlive/texmf-dist/tex/latex/inconsolata/t1zi4.fd
-File: t1zi4.fd 2014/06/22 T1/zi4 (Inconsolata)
+(/usr/share/texlive/texmf-dist/tex/latex/inconsolata/ot1zi4.fd
+File: ot1zi4.fd 2014/06/22 OT1/zi4 (Inconsolata)
 )
-LaTeX Font Info:    Try loading font information for TS1+SourceSansPro-LF on in
-put line 46.
-
-(/usr/share/texlive/texmf-dist/tex/latex/sourcesanspro/TS1SourceSansPro-LF.fd
-File: TS1SourceSansPro-LF.fd 2015/01/11 (autoinst) Font definitions for TS1/Sou
-rceSansPro-LF.
-)
-LaTeX Font Info:    Font shape `TS1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 46.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 95.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 95.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 95.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 95.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
-
-[1
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 100.
@@ -500,26 +416,25 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
- 6735 strings out of 493029
- 102813 string characters out of 6136235
- 185234 words of memory out of 5000000
- 10167 multiletter control sequences out of 15000+600000
- 93323 words of font info for 42 fonts, out of 8000000 for 9000
+ 5908 strings out of 493029
+ 89422 string characters out of 6136235
+ 177658 words of memory out of 5000000
+ 9392 multiletter control sequences out of 15000+600000
+ 8780 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,4n,44p,207b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_sd7igg.enc}{/u
-sr/share/texlive/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc}{/usr/share
-/texlive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5tbsmu.enc}{/usr/share/texl
-ive/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}</usr/share/texlive/t
-exmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular
-.pfb>
-Output written on resume.pdf (1 page, 142221 bytes).
+ 36i,4n,44p,202b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texli
+ve/texmf-dist/fonts/enc/dvips/inconsolata/i4-ot1-0.enc}</usr/share/texlive/texm
+f-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
+frm1200.pfb>
+Output written on resume.pdf (1 page, 81377 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
+ 108 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  17 named destinations out of 1000 (max. 500000)
  121 words of extra memory for PDF output out of 10000 (max. 10000000)
 

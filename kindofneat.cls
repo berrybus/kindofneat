@@ -7,15 +7,15 @@
 \RequirePackage[
     top = .4in,
     bottom = .4in,
-    left = .6in,
-    right = .6in
+    left = .7in,
+    right = .7in
 ]{geometry}
 \RequirePackage{changepage}
 \RequirePackage[pdfborder={0 0 0}]{hyperref}
 \RequirePackage{ragged2e}
-\RequirePackage{sourcesanspro}
+%\RequirePackage{sourcesanspro}
 \RequirePackage{inconsolata}
-\renewcommand{\familydefault}{\sfdefault}
+%\renewcommand{\familydefault}{\sfdefault}
 
 \newcommand{\name}[1]{
 	\begin{center}{\huge\bfseries #1}\end{center}
