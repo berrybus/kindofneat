@@ -1,14 +1,13 @@
-\NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{resume}
+\ProvidesClass{kindofneat}
 
 \LoadClass{article}
 
 \RequirePackage{titlesec}
 \RequirePackage[
-    top = .4in,
-    bottom = .4in,
-    left = .7in,
-    right = .7in
+    top = 0.7in,
+    bottom = 0.7in,
+    left = 0.7in,
+    right = 0.7in
 ]{geometry}
 \RequirePackage{changepage}
 \RequirePackage[pdfborder={0 0 0}]{hyperref}
@@ -31,20 +30,19 @@
 \titleformat{\section}
 	{\Large\bfseries\raggedright}
 	{}{0pt}
-    {\vspace{0em}}[{\titlerule[0.8pt]}]
+    {}[{\titlerule[0.8pt]}]
 
 \titleformat{\subsection}
 	{\large\bfseries\raggedright}
-	{}{20pt}
-	{}
-
+	{}{0pt}
+    {}
 
 \newcommand{\subsectiond}[2]{
 	\subsection[#1]{#1 \hspace*{.5em} \textnormal{#2}}
 }
 
 \newcommand{\subsectionp}[3]{
-	\subsection[#1]{#1 \hspace*{.5em} \textnormal{#2 \hfill #3}}
+	\subsection[#1]{\raggedright #1 \hspace*{.5em} \textnormal{#2 \hfill #3}}
 	\vspace{0.2em}
 }
 
