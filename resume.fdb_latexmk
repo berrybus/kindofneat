@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1524701446 "resume.tex" "resume.pdf" "resume" 1524701447
+["pdflatex"] 1527731896 "resume.tex" "resume.pdf" "resume" 1527731898
   "c:/texlive/2017/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc" 1519875595 7307 8f544a778f53cb535460674c7875f737 ""
   "c:/texlive/2017/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc" 1519876152 6938 5135be6a8802f13a7faf296d1959a1ab ""
   "c:/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1519875230 3332 103109f5612ad95229751940c61aada0 ""
@@ -88,12 +88,12 @@
   "c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1522114885 2727336 98638ee5575b2c1031350d6beb864cc0 ""
   "c:/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1519878544 4127795 3dab3af29aca8141011389a778259722 ""
   "c:/texlive/2017/texmf.cnf" 1519878483 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "kindofneat.cls" 1524701445 1139 15604e55efb8c060fd4793155cd7cbc6 ""
-  "resume.aux" 1524701447 2042 1d8c77c5237ff656fa92c13fe133879d ""
-  "resume.out" 1524701447 907 6b113afdc7aa23b3a50d766bb75fc8fd ""
-  "resume.tex" 1524701408 3668 aecea4154cc58e6c21e2db0b72ed93d4 ""
+  "kindofneat.cls" 1527116000 1218 258480024804fb4709548f7f90c1b96f ""
+  "resume.aux" 1527731898 2015 fde911257129f5955e880278ec110e31 ""
+  "resume.out" 1527731898 880 f92d21fe1479afdd7d09d8b723ae4551 ""
+  "resume.tex" 1527731892 3810 3f2aa517b8dffbfad88ac0848c934bee ""
   (generated)
-  "resume.pdf"
-  "resume.log"
   "resume.aux"
   "resume.out"
+  "resume.pdf"
+  "resume.log"

@@ -4,8 +4,8 @@
 
 \RequirePackage{titlesec}
 \RequirePackage[
-    top = 0.7in,
-    bottom = 0.7in,
+    top = 0.6in,
+    bottom = 0.6in,
     left = 0.7in,
     right = 0.7in
 ]{geometry}
@@ -44,6 +44,11 @@
 \newcommand{\subsectionp}[3]{
 	\subsection[#1]{\raggedright #1 \hspace*{.5em} \textnormal{#2 \hfill #3}}
 	\vspace{0.2em}
+}
+
+\newcommand{\locd}[2]{
+  {\large\raggedright #1 \hfill #2}
+  \vspace{0.2em}
 }
 
 \newcommand{\loc}[1]{
