@@ -16,8 +16,15 @@
 \RequirePackage{inconsolata}
 %\renewcommand{\familydefault}{\sfdefault}
 
+\RequirePackage{hyphenat}
+\RequirePackage{enumitem}
+\RequirePackage[urw-garamond]{mathdesign}
+\RequirePackage[T1]{fontenc}
+
 \newcommand{\name}[1]{
+
 	\begin{center}{\huge\bfseries #1}\end{center}
+  
 }
 
 \newcommand{\info}[1]{
@@ -28,7 +35,7 @@
 {0pt}{14pt plus 2pt minus 2pt}{0pt plus 2pt minus 1pt}
 
 \titleformat{\section}
-	{\Large\bfseries\raggedright}
+	{\fontfamily{pag}\selectfont \Large\bfseries\raggedright}
 	{}{0pt}
     {}[{\titlerule[0.8pt]}]
 
