@@ -35,7 +35,7 @@
 {0pt}{14pt plus 2pt minus 2pt}{0pt plus 2pt minus 1pt}
 
 \titleformat{\section}
-	{\fontfamily{pag}\selectfont \Large\bfseries\raggedright}
+	{\Large\bfseries\raggedright}
 	{}{0pt}
     {}[{\titlerule[0.8pt]}]
 
