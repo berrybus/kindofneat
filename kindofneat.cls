@@ -32,10 +32,10 @@
 }
 
 \titlespacing*{\subsection}
-{0pt}{14pt plus 2pt minus 2pt}{0pt plus 2pt minus 1pt}
+{0pt}{8pt plus 2pt minus 2pt}{4pt plus 2pt minus 1pt}
 
 \titleformat{\section}
-	{\Large\bfseries\raggedright}
+	{\vspace{-0.5em} \Large\bfseries\raggedright}
 	{}{0pt}
     {}[{\titlerule[0.8pt]}]
 
@@ -50,17 +50,14 @@
 
 \newcommand{\subsectionp}[3]{
 	\subsection[#1]{\raggedright #1 \hspace*{.5em} \textnormal{#2 \hfill #3}}
-	\vspace{0.2em}
 }
 
 \newcommand{\locd}[2]{
   {\large\raggedright #1 \hfill #2}
-  \vspace{0.2em}
 }
 
 \newcommand{\loc}[1]{
-{\large\raggedright #1}
-\vspace{0.4em}
+{\vspace{-0.2em} \large\raggedright #1 \vspace{0.2em}}
 }
 
 \newcommand{\desc}[1]{
